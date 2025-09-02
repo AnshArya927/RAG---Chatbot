@@ -1,0 +1,64 @@
+## Leave Rules
+
+**1. Applicability**
+- The CCS (Leave) Rules, 1972 apply to civilian gazetted officers appointed to civil services and posts in connection with the affairs of the Union, except for specific categories such as Railway servants, casual employees, and those governed by special rules[1][2].
+
+**2. Types of Leave**
+- **Earned Leave (EL):** Accumulated based on service, can be availed for personal reasons.
+- **Half Pay Leave (HPL):** Credited at 20 days per year, can be availed on medical grounds or for private affairs.
+- **Commuted Leave:** Conversion of HPL to full pay leave on medical grounds.
+- **Extraordinary Leave (EOL):** Granted when no other leave is admissible.
+- **Leave Not Due (LND):** Advance of HPL under specific conditions.
+- **Maternity and Paternity Leave:** As per government norms.
+- **Study Leave:** For approved courses, subject to conditions.
+- **Special Casual Leave:** For specific purposes such as participation in sports, family planning, etc., up to a maximum of 30 days in a calendar year[3].
+- **Casual Leave:** Not a statutory leave, but granted as per administrative instructions.
+
+**3. Right to Leave**
+- Leave cannot be claimed as a matter of right. The competent authority may refuse or revoke leave depending on the exigencies of public service, but cannot alter the type of leave applied for except at the written request of the officer[1][2].
+
+**4. Leave Account and Maintenance**
+- A leave account is maintained for each gazetted officer by the Audit Officer, or by the Head of Office if pay and allowances are drawn by them[4].
+- Leave accounts are updated to reflect leave taken and credited[5][4].
+
+**5. Application and Sanction**
+- Applications for leave must be made in the prescribed form to the authority competent to grant leave[4].
+- Leave is sanctioned after verification of eligibility and leave balance[5][4].
+
+**6. Medical Leave**
+- Leave on medical certificate may be granted if the officer is unfit for duty, subject to certification by a medical authority. If it is uncertain whether the officer will ever be fit to return, leave not exceeding twelve months may be granted, extendable only with further medical assessment[4].
+
+**7. Combination and Commutation of Leave**
+- Any kind of leave may be combined with any other kind, subject to rules. Commutation (conversion) of one type of leave into another is permitted retrospectively, but not as a matter of right[1][2].
+
+**8. Maximum Period of Leave**
+- No leave of any kind can be granted for a continuous period exceeding five years except with the approval of the President in special cases[2].
+
+**9. Restrictions**
+- Leave is not granted to officers who are under orders of dismissal, removal, or compulsory retirement, or who are under suspension[2][4].
+- There is no provision for compensatory leave for gazetted officers for working on holidays or Sundays[3].
+
+**10. Effect of Resignation, Dismissal, or Removal**
+- Any claim to leave at credit ceases from the date of dismissal, removal, or resignation, except in cases of technical resignation for joining another government post with proper permission[1][2].
+
+**11. Recall from Leave**
+- If an officer is recalled to duty before expiry of leave, the period of travel to join duty is treated as duty, and they are eligible for travel allowance and leave salary for the period[4].
+
+**12. Leave Preparatory to Retirement**
+- Officers can avail leave preparatory to retirement, subject to leave at credit and rules in force[5][4].
+
+---
+
+### Summary Table: Key Leave Types and Provisions
+
+| Leave Type            | Key Features                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| Earned Leave (EL)     | Accrued annually, for personal use                                           |
+| Half Pay Leave (HPL)  | 20 days/year, on medical/private grounds                                     |
+| Commuted Leave        | HPL converted to full pay, mostly on medical grounds                         |
+| Extra Ordinary Leave  | When no other leave is available                                             |
+| Special Casual Leave  | Up to 30 days/year for specified purposes                                    |
+| Maternity/Paternity   | As per government rules                                                      |
+| Study Leave           | For approved courses, subject to conditions                                  |
+| Compensatory Leave    | Not available to gazetted officers                                           |
+
