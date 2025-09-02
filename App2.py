@@ -52,7 +52,7 @@ init_db()  # initialize DB at app start
 # ---------------------- HELPER FUNCTIONS ----------------------
 def setup_api_key():
     if "GOOGLE_API_KEY" not in os.environ:
-        os.environ["GOOGLE_API_KEY"] = "AIzaSyAv_w2OBP7HOTjSmk7bN4AEbUQkrl9W4vY"  # Replace with your key
+        os.environ["GOOGLE_API_KEY"] = "API KEY here"  
     return True
 
 def create_or_load_vector_store():
